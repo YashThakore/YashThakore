@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yashthakore&theme=dark&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=yashthakore&theme=dark" height="150" alt="streak graph"  />
 </div>
 
 ###
