@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img src="https://yashthakore-github-stats.vercel.app?user=YashThakore&theme=dark" height="150" alt="streak graph"  />
+  <img src="https://yashthakore-github-stats.vercel.app?user=YashThakore&theme=black-ice" height="150" alt="streak graph"  />
 </div>
 
 ###
