@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=8a3nd08x9pjnhks4b5biiuly3&count=1" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=8a3nd08x9pjnhks4b5biiuly3&count=1" alt="Spotify recently played track"  />
   
 </div>
 
